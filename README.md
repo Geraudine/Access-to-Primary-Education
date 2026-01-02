@@ -1,5 +1,8 @@
 # 📚 Access to Primary Education – Data Analysis Dashboard
 
+<img width="304" height="165" alt="Image" src="https://github.com/user-attachments/assets/021341ef-5730-40e1-97ed-2d4676bc5f54" />
+
+
 ## 📌 Project Overview
 This project analyzes **access to primary education across countries and regions** using international education data.  
 The objective is to evaluate enrollment patterns, regional disparities, and trends over time in order to understand **inequality in access to basic education**.
